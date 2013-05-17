@@ -1,0 +1,21 @@
+Instructions for use:
+
+After extracting the files,Open the folder "Source", and Double click the solution file
+
+If you are using a version of Visual studio that is newer than 2008, Follow instructions of the 
+upgrade Wizard provided by visual studio
+
+Click the button of Run in Visual studio to execute the program
+
+Key Points To note:
+
+1.All items have been assigned codes to used while entering items
+2.All items have been assigned prices
+3.Use character 'P' or 'p' for Item Code && '0' for Qauntity if you want to print the receipt
+4.Use character 'X' or 'x' for Item Code && hit the Enter button twice to exit the Program
+
+Multiple Items can be entered with dynamic qauntities and a receipt can be printed at any point.
+
+Requirements:
+MS Visual Studio 2008 or later
+.net framework 3.5 or later
